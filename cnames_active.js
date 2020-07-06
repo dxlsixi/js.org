@@ -600,6 +600,7 @@ var cnames_active = {
   "duniter": "duniterspec.github.io",
   "dvan": "dvan.netlify.com",
   "dvd": "cdaringe.github.io/dvd-corner-bounce",
+  "dxl": "dxl.js.org",
   "dynaflo": "trevorhanus.github.io/dynaflo",
   "dynamic-record": "na-west1.surge.sh",
   "dynamicsnode": "crisfervil.github.io/DynamicsNode",
